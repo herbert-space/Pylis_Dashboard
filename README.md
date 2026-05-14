@@ -1,20 +1,17 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://drive.google.com/file/d/1xlqprMb7uqQoRirbk_KvR5J7754fF7nP/view" />
 </div>
 
-# Run and deploy your AI Studio app
+# Pylis Dashbord IoT
 
-This contains everything you need to run your app locally.
+Pylis adalah singkatan dari Pirolisis. Pirolisis adalah teknologi daur ulang kimia yang menguraikan limbah plastik menjadi bahan bakar cair (minyak), gas, dan arang melalui pemanasan suhu tinggi 300-700°C tanpa oksigen. Proses ini mengubah limbah plastik PP, PE (HDPE/LDPE), dan PS menjadi produk bernilai ekonomi tinggi, seperti bensin atau solar, sekaligus mengurangi polusi lingkungan karena mengolah sampah menjadi sesuatu yang bernilai.
+## Preview
 
-View your app in AI Studio: https://ai.studio/apps/6854695c-e2be-4af9-9f05-d9d602a647a1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+[Link](https://pylis-dashboard.vercel.app/)
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Authors
+
+- [@herbert-space](https://www.github.com/herbert-space)
+
+
