@@ -1,0 +1,6 @@
+{
+  "name": "PyroSense IoT Monitor",
+  "description": "IoT dashboard for monitoring pyrolysis system performance, gas levels, and system health with real-time hazard alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
